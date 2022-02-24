@@ -1,0 +1,451 @@
+﻿Issue,Party,Stance
+GST,BJP,Agreement
+GST,INC,Disagreement
+GST,AAP,Disagreement
+GST,AIADMK,
+GST,AIMIM,
+GST,Akali Dal,Agreement
+GST,Biju Janata Dal,Agreement
+GST,DMK,Disagreement
+GST,Janata Dal,Disagreement
+GST,Janata Party,
+GST,Lok Jan Shakti Party,
+GST,Marxist,
+GST,NCP,Disagreement
+GST,RJD,Disagreement
+GST,Samajwadi Party,Disagreement
+GST,Shiv Sena,Agreement
+GST,TMC,Disagreement
+GST,Telugu Desam Party,
+Demonetisation,BJP,Agreement
+Demonetisation,INC,Agreement
+Demonetisation,AAP,
+Demonetisation,AIADMK,
+Demonetisation,AIMIM,Disagreement
+Demonetisation,Akali Dal,
+Demonetisation,Biju Janata Dal,
+Demonetisation,DMK,
+Demonetisation,Janata Dal,Disagreement
+Demonetisation,Janata Party,Agreement
+Demonetisation,Lok Jan Shakti Party,Agreement
+Demonetisation,Marxist,Agreement
+Demonetisation,NCP,
+Demonetisation,RJD,
+Demonetisation,Samajwadi Party,
+Demonetisation,Shiv Sena,
+Demonetisation,TMC,
+Demonetisation,Telugu Desam Party,
+Ram Mandir,BJP,Agreement
+Ram Mandir,INC,
+Ram Mandir,AAP,
+Ram Mandir,AIADMK,
+Ram Mandir,AIMIM,
+Ram Mandir,Akali Dal,Agreement
+Ram Mandir,Biju Janata Dal,
+Ram Mandir,DMK,
+Ram Mandir,Janata Dal,
+Ram Mandir,Janata Party,
+Ram Mandir,Lok Jan Shakti Party,
+Ram Mandir,Marxist,
+Ram Mandir,NCP,
+Ram Mandir,RJD,Agreement
+Ram Mandir,Samajwadi Party,Agreement
+Ram Mandir,Shiv Sena,Agreement
+Ram Mandir,TMC,
+Ram Mandir,Telugu Desam Party,
+Cauvery SC Verdict,BJP,Disagreement
+Cauvery SC Verdict,INC,Agreement
+Cauvery SC Verdict,AAP,
+Cauvery SC Verdict,AIADMK,Agreement
+Cauvery SC Verdict,AIMIM,
+Cauvery SC Verdict,Akali Dal,
+Cauvery SC Verdict,Biju Janata Dal,
+Cauvery SC Verdict,DMK,Agreement
+Cauvery SC Verdict,Janata Dal,
+Cauvery SC Verdict,Janata Party,
+Cauvery SC Verdict,Lok Jan Shakti Party,
+Cauvery SC Verdict,Marxist,
+Cauvery SC Verdict,NCP,
+Cauvery SC Verdict,RJD,
+Cauvery SC Verdict,Samajwadi Party,
+Cauvery SC Verdict,Shiv Sena,
+Cauvery SC Verdict,TMC,
+Cauvery SC Verdict,Telugu Desam Party,
+Aadhar linking,BJP,Agreement
+Aadhar linking,INC,Disagreement
+Aadhar linking,AAP,Disagreement
+Aadhar linking,AIADMK,
+Aadhar linking,AIMIM,
+Aadhar linking,Akali Dal,Agreement
+Aadhar linking,Biju Janata Dal,
+Aadhar linking,DMK,
+Aadhar linking,Janata Dal,Disagreement
+Aadhar linking,Janata Party,
+Aadhar linking,Lok Jan Shakti Party,
+Aadhar linking,Marxist,
+Aadhar linking,NCP,Disagreement
+Aadhar linking,RJD,
+Aadhar linking,Samajwadi Party,
+Aadhar linking,Shiv Sena,Disagreement
+Aadhar linking,TMC,
+Aadhar linking,Telugu Desam Party,Agreement
+FDIPolicy,BJP,Agreement
+FDIPolicy,INC,Disagreement
+FDIPolicy,AAP,
+FDIPolicy,AIADMK,
+FDIPolicy,AIMIM,
+FDIPolicy,Akali Dal,Agreement
+FDIPolicy,Biju Janata Dal,
+FDIPolicy,DMK,
+FDIPolicy,Janata Dal,Disagreement
+FDIPolicy,Janata Party,
+FDIPolicy,Lok Jan Shakti Party,
+FDIPolicy,Marxist,
+FDIPolicy,NCP,
+FDIPolicy,RJD,
+FDIPolicy,Samajwadi Party,Disagreement
+FDIPolicy,Shiv Sena,Agreement
+FDIPolicy,TMC,
+FDIPolicy,Telugu Desam Party,
+TripleTalaqBill,BJP,Agreement
+TripleTalaqBill,INC,Disagreement
+TripleTalaqBill,AAP,
+TripleTalaqBill,AIADMK,
+TripleTalaqBill,AIMIM,Agreement
+TripleTalaqBill,Akali Dal,Agreement
+TripleTalaqBill,Biju Janata Dal,
+TripleTalaqBill,DMK,
+TripleTalaqBill,Janata Dal,
+TripleTalaqBill,Janata Party,
+TripleTalaqBill,Lok Jan Shakti Party,
+TripleTalaqBill,Marxist,
+TripleTalaqBill,NCP,
+TripleTalaqBill,RJD,
+TripleTalaqBill,Samajwadi Party,
+TripleTalaqBill,Shiv Sena,
+TripleTalaqBill,TMC,
+TripleTalaqBill,Telugu Desam Party,
+Triple Talaq SC verdict,BJP,Agreement
+Triple Talaq SC verdict,INC,Agreement
+Triple Talaq SC verdict,AAP,
+Triple Talaq SC verdict,AIADMK,
+Triple Talaq SC verdict,AIMIM,
+Triple Talaq SC verdict,Akali Dal,Agreement
+Triple Talaq SC verdict,Biju Janata Dal,
+Triple Talaq SC verdict,DMK,
+Triple Talaq SC verdict,Janata Dal,
+Triple Talaq SC verdict,Janata Party,
+Triple Talaq SC verdict,Lok Jan Shakti Party,
+Triple Talaq SC verdict,Marxist,
+Triple Talaq SC verdict,NCP,
+Triple Talaq SC verdict,RJD,
+Triple Talaq SC verdict,Samajwadi Party,
+Triple Talaq SC verdict,Shiv Sena,
+Triple Talaq SC verdict,TMC,
+Triple Talaq SC verdict,Telugu Desam Party,
+RightToPrivacy SC Verdict,BJP,Agreement
+RightToPrivacy SC Verdict,INC,Agreement
+RightToPrivacy SC Verdict,AAP,
+RightToPrivacy SC Verdict,AIADMK,
+RightToPrivacy SC Verdict,AIMIM,
+RightToPrivacy SC Verdict,Akali Dal,
+RightToPrivacy SC Verdict,Biju Janata Dal,
+RightToPrivacy SC Verdict,DMK,
+RightToPrivacy SC Verdict,Janata Dal,
+RightToPrivacy SC Verdict,Janata Party,
+RightToPrivacy SC Verdict,Lok Jan Shakti Party,
+RightToPrivacy SC Verdict,Marxist,
+RightToPrivacy SC Verdict,NCP,
+RightToPrivacy SC Verdict,RJD,
+RightToPrivacy SC Verdict,Samajwadi Party,
+RightToPrivacy SC Verdict,Shiv Sena,
+RightToPrivacy SC Verdict,TMC,
+RightToPrivacy SC Verdict,Telugu Desam Party,
+Rohingyas,BJP,Disagreement
+Rohingyas,INC,Agreement
+Rohingyas,AAP,
+Rohingyas,AIADMK,
+Rohingyas,AIMIM,Agreement
+Rohingyas,Akali Dal,
+Rohingyas,Biju Janata Dal,
+Rohingyas,DMK,
+Rohingyas,Janata Dal,
+Rohingyas,Janata Party,
+Rohingyas,Lok Jan Shakti Party,
+Rohingyas,Marxist,
+Rohingyas,NCP,
+Rohingyas,RJD,
+Rohingyas,Samajwadi Party,
+Rohingyas,Shiv Sena,
+Rohingyas,TMC,
+Rohingyas,Telugu Desam Party,
+Beef Ban,BJP,Agreement
+Beef Ban,INC,Disagreement
+Beef Ban,AAP,
+Beef Ban,AIADMK,
+Beef Ban,AIMIM,Agreement
+Beef Ban,Akali Dal,
+Beef Ban,Biju Janata Dal,
+Beef Ban,DMK,
+Beef Ban,Janata Dal,Agreement
+Beef Ban,Janata Party,
+Beef Ban,Lok Jan Shakti Party,
+Beef Ban,Marxist,Disagreement
+Beef Ban,NCP,
+Beef Ban,RJD,
+Beef Ban,Samajwadi Party,
+Beef Ban,Shiv Sena,
+Beef Ban,TMC,
+Beef Ban,Telugu Desam Party,
+GDP growth,BJP,Agreement
+GDP growth,INC,Disagreement
+GDP growth,AAP,Disagreement
+GDP growth,AIADMK,
+GDP growth,AIMIM,
+GDP growth,Akali Dal,Agreement
+GDP growth,Biju Janata Dal,
+GDP growth,DMK,Disagreement
+GDP growth,Janata Dal,Disagreement
+GDP growth,Janata Party,
+GDP growth,Lok Jan Shakti Party,
+GDP growth,Marxist,
+GDP growth,NCP,
+GDP growth,RJD,Disagreement
+GDP growth,Samajwadi Party,
+GDP growth,Shiv Sena,Disagreement
+GDP growth,TMC,Disagreement
+GDP growth,Telugu Desam Party,
+Inflation control,BJP,Agreement
+Inflation control,INC,Disagreement
+Inflation control,AAP,Disagreement
+Inflation control,AIADMK,Disagreement
+Inflation control,AIMIM,
+Inflation control,Akali Dal,
+Inflation control,Biju Janata Dal,
+Inflation control,DMK,
+Inflation control,Janata Dal,Disagreement
+Inflation control,Janata Party,
+Inflation control,Lok Jan Shakti Party,
+Inflation control,Marxist,
+Inflation control,NCP,Disagreement
+Inflation control,RJD,
+Inflation control,Samajwadi Party,Disagreement
+Inflation control,Shiv Sena,Disagreement
+Inflation control,TMC,Disagreement
+Inflation control,Telugu Desam Party,
+PNB Scam,BJP,Agreement
+PNB Scam,INC,Disagreement
+PNB Scam,AAP,Neutral
+PNB Scam,AIADMK,Agreement
+PNB Scam,AIMIM,Disagreement
+PNB Scam,Akali Dal,Agreement
+PNB Scam,Biju Janata Dal,
+PNB Scam,DMK,Agreement
+PNB Scam,Janata Dal,Agreement
+PNB Scam,Janata Party,
+PNB Scam,Lok Jan Shakti Party,
+PNB Scam,Marxist,Agreement
+PNB Scam,NCP,
+PNB Scam,RJD,
+PNB Scam,Samajwadi Party,
+PNB Scam,Shiv Sena,
+PNB Scam,TMC,
+PNB Scam,Telugu Desam Party,
+EVM tampering,BJP,Disagreement
+EVM tampering,INC,Agreement
+EVM tampering,AAP,Agreement
+EVM tampering,AIADMK,Agreement
+EVM tampering,AIMIM,Disagreement
+EVM tampering,Akali Dal,Disagreement
+EVM tampering,Biju Janata Dal,
+EVM tampering,DMK,
+EVM tampering,Janata Dal,Agreement
+EVM tampering,Janata Party,
+EVM tampering,Lok Jan Shakti Party,
+EVM tampering,Marxist,
+EVM tampering,NCP,
+EVM tampering,RJD,Agreement
+EVM tampering,Samajwadi Party,Agreement
+EVM tampering,Shiv Sena,
+EVM tampering,TMC,
+EVM tampering,Telugu Desam Party,
+Fodder scam,BJP,Agreement
+Fodder scam,INC,Disagreement
+Fodder scam,AAP,Agreement
+Fodder scam,AIADMK,
+Fodder scam,AIMIM,
+Fodder scam,Akali Dal,Agreement
+Fodder scam,Biju Janata Dal,
+Fodder scam,DMK,
+Fodder scam,Janata Dal,
+Fodder scam,Janata Party,
+Fodder scam,Lok Jan Shakti Party,
+Fodder scam,Marxist,
+Fodder scam,NCP,
+Fodder scam,RJD,Disagreement
+Fodder scam,Samajwadi Party,
+Fodder scam,Shiv Sena,
+Fodder scam,TMC,
+Fodder scam,Telugu Desam Party,
+reservation,BJP,Agreement
+reservation,INC,
+reservation,AAP,
+reservation,AIADMK,
+reservation,AIMIM,
+reservation,Akali Dal,
+reservation,Biju Janata Dal,
+reservation,DMK,
+reservation,Janata Dal,
+reservation,Janata Party,
+reservation,Lok Jan Shakti Party,
+reservation,Marxist,
+reservation,NCP,
+reservation,RJD,Agreement
+reservation,Samajwadi Party,
+reservation,Shiv Sena,
+reservation,TMC,
+reservation,Telugu Desam Party,
+acchedin,BJP,Agreement
+acchedin,INC,Disagreement
+acchedin,AAP,Disagreement
+acchedin,AIADMK,
+acchedin,AIMIM,
+acchedin,Akali Dal,Agreement
+acchedin,Biju Janata Dal,Agreement
+acchedin,DMK,
+acchedin,Janata Dal,
+acchedin,Janata Party,
+acchedin,Lok Jan Shakti Party,
+acchedin,Marxist,
+acchedin,NCP,Disagreement
+acchedin,RJD,
+acchedin,Samajwadi Party,Disagreement
+acchedin,Shiv Sena,Agreement
+acchedin,TMC,
+acchedin,Telugu Desam Party,
+nsc and ppf rate cuts,BJP,Agreement
+nsc and ppf rate cuts,INC,Disagreement
+nsc and ppf rate cuts,AAP,Disagreement
+nsc and ppf rate cuts,AIADMK,
+nsc and ppf rate cuts,AIMIM,
+nsc and ppf rate cuts,Akali Dal,
+nsc and ppf rate cuts,Biju Janata Dal,
+nsc and ppf rate cuts,DMK,
+nsc and ppf rate cuts,Janata Dal,
+nsc and ppf rate cuts,Janata Party,
+nsc and ppf rate cuts,Lok Jan Shakti Party,
+nsc and ppf rate cuts,Marxist,
+nsc and ppf rate cuts,NCP,
+nsc and ppf rate cuts,RJD,
+nsc and ppf rate cuts,Samajwadi Party,
+nsc and ppf rate cuts,Shiv Sena,
+nsc and ppf rate cuts,TMC,
+nsc and ppf rate cuts,Telugu Desam Party,
+Andhra Special Status,BJP,Disagreement
+Andhra Special Status,INC,Agreement
+Andhra Special Status,AAP,
+Andhra Special Status,AIADMK,
+Andhra Special Status,AIMIM,
+Andhra Special Status,Akali Dal,
+Andhra Special Status,Biju Janata Dal,
+Andhra Special Status,DMK,
+Andhra Special Status,Janata Dal,
+Andhra Special Status,Janata Party,
+Andhra Special Status,Lok Jan Shakti Party,
+Andhra Special Status,Marxist,
+Andhra Special Status,NCP,
+Andhra Special Status,RJD,
+Andhra Special Status,Samajwadi Party,
+Andhra Special Status,Shiv Sena,
+Andhra Special Status,TMC,
+Andhra Special Status,Telugu Desam Party,
+Jallikattu ban,BJP,Agreement
+Jallikattu ban,INC,Disagreement
+Jallikattu ban,AAP,
+Jallikattu ban,AIADMK,Agreement
+Jallikattu ban,AIMIM,
+Jallikattu ban,Akali Dal,
+Jallikattu ban,Biju Janata Dal,
+Jallikattu ban,DMK,Agreement
+Jallikattu ban,Janata Dal,
+Jallikattu ban,Janata Party,
+Jallikattu ban,Lok Jan Shakti Party,
+Jallikattu ban,Marxist,
+Jallikattu ban,NCP,
+Jallikattu ban,RJD,
+Jallikattu ban,Samajwadi Party,
+Jallikattu ban,Shiv Sena,
+Jallikattu ban,TMC,Disagreement
+Jallikattu ban,Telugu Desam Party,
+Padmavati film screening,BJP,Agreement
+Padmavati film screening,INC,Disagreement
+Padmavati film screening,AAP,
+Padmavati film screening,AIADMK,
+Padmavati film screening,AIMIM,
+Padmavati film screening,Akali Dal,
+Padmavati film screening,Biju Janata Dal,
+Padmavati film screening,DMK,
+Padmavati film screening,Janata Dal,
+Padmavati film screening,Janata Party,
+Padmavati film screening,Lok Jan Shakti Party,
+Padmavati film screening,Marxist,
+Padmavati film screening,NCP,
+Padmavati film screening,RJD,
+Padmavati film screening,Samajwadi Party,
+Padmavati film screening,Shiv Sena,
+Padmavati film screening,TMC,
+Padmavati film screening,Telugu Desam Party,
+lgp price hike,BJP,Agreement
+lgp price hike,INC,Disagreement
+lgp price hike,AAP,
+lgp price hike,AIADMK,
+lgp price hike,AIMIM,
+lgp price hike,Akali Dal,
+lgp price hike,Biju Janata Dal,
+lgp price hike,DMK,
+lgp price hike,Janata Dal,
+lgp price hike,Janata Party,
+lgp price hike,Lok Jan Shakti Party,
+lgp price hike,Marxist,
+lgp price hike,NCP,
+lgp price hike,RJD,
+lgp price hike,Samajwadi Party,
+lgp price hike,Shiv Sena,
+lgp price hike,TMC,
+lgp price hike,Telugu Desam Party,
+Swacch Bharat,BJP,Agreement
+Swacch Bharat,INC,Disagreement
+Swacch Bharat,AAP,Disagreement
+Swacch Bharat,AIADMK,
+Swacch Bharat,AIMIM,
+Swacch Bharat,Akali Dal,Agreement
+Swacch Bharat,Biju Janata Dal,
+Swacch Bharat,DMK,
+Swacch Bharat,Janata Dal,
+Swacch Bharat,Janata Party,
+Swacch Bharat,Lok Jan Shakti Party,
+Swacch Bharat,Marxist,
+Swacch Bharat,NCP,
+Swacch Bharat,RJD,
+Swacch Bharat,Samajwadi Party,
+Swacch Bharat,Shiv Sena,Agreement
+Swacch Bharat,TMC,Disagreement
+Swacch Bharat,Telugu Desam Party,Agreement
+hike in oil prices,BJP,Agreement
+hike in oil prices,INC,Disagreement
+hike in oil prices,AAP,Disagreement
+hike in oil prices,AIADMK,Disagreement
+hike in oil prices,AIMIM,
+hike in oil prices,Akali Dal,
+hike in oil prices,Biju Janata Dal,
+hike in oil prices,DMK,
+hike in oil prices,Janata Dal,
+hike in oil prices,Janata Party,
+hike in oil prices,Lok Jan Shakti Party,
+hike in oil prices,Marxist,
+hike in oil prices,NCP,
+hike in oil prices,RJD,
+hike in oil prices,Samajwadi Party,
+hike in oil prices,Shiv Sena,Disagreement
+hike in oil prices,TMC,Disagreement
+hike in oil prices,Telugu Desam Party,
